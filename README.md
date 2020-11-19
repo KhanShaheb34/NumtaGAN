@@ -1,6 +1,8 @@
 # NumtaGAN (Generative Adversarial Network)
 
-Creating a GAN to generate bangla digits. Check this [IPython Notebook](/NumtaGAN.ipynb).
+Creating a GAN to generate bangla digits. Check this [NumtaGAN IPython Notebook](/NumtaGAN.ipynb).
+
+Also applied the similar approach in the [Fashion Mnist Dataset](https://www.kaggle.com/zalando-research/fashionmnist) and generated some fashion items. Have a look at this [FashionMnistGAN Ipython Notebook](/FashionMnistGAN.ipynb)
 
 Dataset: [Numta - Bengali.ai](https://bengali.ai/datasets/)
 
